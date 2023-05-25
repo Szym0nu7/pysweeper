@@ -1,0 +1,2 @@
+# pysweeper
+minesweeper in pygame
